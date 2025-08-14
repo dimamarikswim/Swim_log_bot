@@ -1,3 +1,0 @@
-2025-06-08 09:40:22 | user_id=1524722099 | username=dmitriy_living_the_dream | result=Test
-2025-06-08 09:40:45 | user_id=1524722099 | username=dmitriy_living_the_dream | result=Bring
-2025-06-08 10:00:31 | user_id=1524722099 | username=dmitriy_living_the_dream | result=2:00 брас 200 м
