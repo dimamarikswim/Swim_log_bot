@@ -2,7 +2,11 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, ContextTypes, CallbackQueryHandler, MessageHandler, filters
 import re
 
-TOKEN = "8095728516:AAGHcobARtBcxkOltJPX91MaX7G_h6Aux0k"
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+TOKEN = os.getenv("BOT_TOKEN")
 
 # Временное хранилище состояния опроса
 user_data = {}
